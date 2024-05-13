@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/countrylookup",
+  "version": "1.0.0",
+  "description": "Country Lookup is a simple tool for looking up country data. It returns the country name, capital, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/countrylookup-API.git"
+  },
+  "keywords": [
+    "country lookup"," country data"," country lookup api"," country data api"," country lookup tool"," country data tool"," country lookup software"," country data software"," country lookup service"," country data service"," country lookup library"," country data library"," country lookup sdk"," country data sdk"," country lookup code"," country data code"," country lookup script"," country data script"," country lookup program"," country data program"," country lookup application"," country data application"," country lookup app"," country data app"," country lookup tool"," country data tool"," country lookup utility"," country data utility"," country lookup helper"," country data helper"," country lookup helper tool"," country data helper tool"," country lookup helper software"," country data helper software"," country lookup helper service"," country data helper service"," country lookup helper library"," country data helper library"," country lookup helper sdk"," country data helper sdk"," country lookup helper code"," country data helper code"," country lookup helper script"," country data helper script"," country lookup helper program"," country data helper program"," country lookup helper application"," country data helper application"," country lookup helper app"," country data helper app"," country lookup helper tool"," country data helper tool"," country lookup helper utility"," country data helper utility"," country lookup helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/countrylookup-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/countrylookup-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
