@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/countrylookup-API.git"
   },
   "keywords": [
-    "country lookup"," country data"," country lookup api"," country data api"," country lookup tool"," country data tool"," country lookup software"," country data software"," country lookup service"," country data service"," country lookup library"," country data library"," country lookup sdk"," country data sdk"," country lookup code"," country data code"," country lookup script"," country data script"," country lookup program"," country data program"," country lookup application"," country data application"," country lookup app"," country data app"," country lookup tool"," country data tool"," country lookup utility"," country data utility"," country lookup helper"," country data helper"," country lookup helper tool"," country data helper tool"," country lookup helper software"," country data helper software"," country lookup helper service"," country data helper service"," country lookup helper library"," country data helper library"," country lookup helper sdk"," country data helper sdk"," country lookup helper code"," country data helper code"," country lookup helper script"," country data helper script"," country lookup helper program"," country data helper program"," country lookup helper application"," country data helper application"," country lookup helper app"," country data helper app"," country lookup helper tool"," country data helper tool"," country lookup helper utility"," country data helper utility"," country lookup helper"
+    "country lookup","country data","country lookup api","country data api","country lookup tool"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
