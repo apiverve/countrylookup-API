@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/countrylookup",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Country Lookup is a simple tool for looking up country data. It returns the country name, capital, and more.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/apiverve/countrylookup-API/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/api/countrylookup",
+  "homepage": "https://apiverve.com/marketplace/api/countrylookup?utm_source=npm",
   "devDependencies": {
     "mocha": "^10.7.3",
     "chai": "^5.1.1",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.7.4"
+    "axios": "1.7.7"
   }
 }
